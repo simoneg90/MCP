@@ -1,0 +1,27 @@
+Started LED scan for ROMA1 and ROMA2:
+
+LED DUTY set at 22 ns and CATHODE set ON for both MCP for each run
+
+
+First setup configuration: Roma1 not amplified connected at CH5, Roma2 amplified
+
+
+Run n.     ROMA1_Voltage[V]     ROMA2_Voltage[V]    LED_Voltage[V]
+
+272         2700                   2700                1,0
+273         2700                   2700                1,2
+274         2650                   2650                1,0
+275         2650                   2650                1,2
+276         2800                   2800                1,0
+277         2800                   2800                1,2
+
+======================================================================================
+
+
+First setup configuration: Roma2 not amplified connected at CH5, Roma1 amplified
+
+
+Run n.     ROMA1_Voltage[V]     ROMA2_Voltage[V]    LED_Voltage[V]
+
+278         2750                   2750                1,0
+279         2750                   2750                1,2
